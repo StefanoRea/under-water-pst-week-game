@@ -121,19 +121,19 @@ e6e66688888888888888888888888888888888888888888888888888888888888888888888888888
 ee88888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888
 `</field><data>{"commentRefs":[],"fieldData":{"img":"bfD/%:S]RGAUfUrSymrU"}}</data></shadow></value><next><block type="variables_set" id="H.BjSP1~!tlu,Ei_)^V["><field name="VAR" id="dh}O!XE+~#A+C?(HL(yh">Scuba diver</field><value name="VALUE"><shadow xmlns="http://www.w3.org/1999/xhtml" type="math_number"><field name="NUM">0</field></shadow><block type="spritescreate" id="G]z/|]CiODQCp4e1]eFC"><value name="img"><shadow type="screen_image_picker" id="+d/k9sy?`9g*AcCJ-J(["><field name="img">img`
 . . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . 1 1 1 1 
+. . . . . . . . . 1 1 1 . . . 1 
+. . . . . . . 1 1 1 . . 3 . 1 . 
+. . . . . . . 1 . . . . . 1 . . 
+. . . . . 1 1 . . . . . 1 1 . . 
+. . . . . 1 1 . . . 1 1 . . . . 
+. . . . . 1 1 . 1 1 . . . . . . 
+. . . . . 1 1 1 . . . . . . . . 
+. . . . . 1 1 1 . . . . . . . . 
 . . . . . . . . . . . . . . . . 
 . . . . . . . . . . . . . . . . 
 . . . . . . . . . . . . . . . . 
 . . . . . . . . . . . . . . . . 
 . . . . . . . . . . . . . . . . 
 . . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-`</field><data>{"commentRefs":[],"fieldData":{"img":"+d/k9sy?`9g*AcCJ-J(["}}</data></shadow></value><value name="kind"><shadow type="spritekind" id="7yq4Gi,Bvf4WhM(5:%*."><field name="MEMBER">Player</field></shadow></value></block></value></block></next></block></statement></block></xml>
+`</field><data>{"commentRefs":[],"fieldData":{"img":"+d/k9sy?`9g*AcCJ-J(["}}</data></shadow></value><value name="kind"><shadow type="spritekind" id="7yq4Gi,Bvf4WhM(5:%*."><field name="MEMBER">Player</field></shadow></value></block></value></block></next></block></statement></block><block type="keyonevent" id="s~|#Kju~%-+eFF95}:]2" x="50" y="210"><field name="button">controller.A</field><field name="event">ControllerButtonEvent.Pressed</field><statement name="HANDLER"><block type="run_movement_animation" id="duV,iQX!:2Du(r!Fv7Z="><value name="sprite"><block type="variables_get" id="aPUrYM/1qAW4$[ZQgp+v"><field name="VAR" id="dh}O!XE+~#A+C?(HL(yh">Scuba diver</field></block></value><value name="pathString"><shadow type="animation_path" id="P6/Iydr4#$goJ)NJm%ZA"><field name="animationPath">animation.bobbingRight</field></shadow></value><value name="duration"><shadow type="timePicker" id="#R8`No?7`8Rf*Hggp_@)"><field name="ms">1000</field></shadow></value><value name="loop"><shadow type="toggleOnOff" id="z$2Fbmsnz.R2kF!,@z35"><field name="on">false</field></shadow></value></block></statement></block></xml>
